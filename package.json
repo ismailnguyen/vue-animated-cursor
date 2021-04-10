@@ -1,8 +1,8 @@
 {
   "name": "vue-animated-cursor",
   "short_description": "VueJS animated cursor with light halo",
-  "description": "vue-animated-cursor is a CSS cursor with rounded halo light animation following the cursor.", 
-  "version": "1.0.0",
+  "description": "vue-animated-cursor is a CSS cursor with rounded halo light animation following the cursor.",
+  "version": "1.0.3",
   "author": "Ismaïl NGUYEN <nguyen.ismail@gmail.com>",
   "repository": "https://github.com/ismailnguyen/vue-animated-cursor.git",
   "license": "Under WTFPL licence",
